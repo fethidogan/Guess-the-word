@@ -1,0 +1,7 @@
+ubuntu
+linux
+python
+csharp
+prepare
+notebook
+computer
