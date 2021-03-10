@@ -6,6 +6,7 @@ Guess the word python project
 Written in python 
 
 Features
+- text files and .py file should be same directroy with the os.getcwd() or it wont work 
 
 - chooses random word from a file 
 - generates number of underscores same size with the word
