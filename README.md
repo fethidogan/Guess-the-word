@@ -12,6 +12,7 @@ Features
 - it accepts characters and multiple characters
 - when a point reached passes to another subject / or file
 - when you submit the right character or multiple character it changes underscores to characters
+- you can easily add game over and more feature if you want to work on this file 
 
 Thanks 
 
